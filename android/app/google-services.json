@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "329053429244",
+    "project_id": "studaypoint-7f2fd",
+    "storage_bucket": "studaypoint-7f2fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329053429244:android:62015eaecf9f12140e2679",
+        "android_client_info": {
+          "package_name": "com.example.studaypoint"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHlNHsPYoQYpg71FrMD_CaEWLAwEQ2mUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
